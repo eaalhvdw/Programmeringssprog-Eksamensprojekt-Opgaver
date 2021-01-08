@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LHH_Opgave1", "LHH_Opgave1\LHH_Opgave1.csproj", "{863D612B-C8D1-4469-9817-0BA1E064D01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LHH_Opgave2", "LHH_Opgave2\LHH_Opgave2.csproj", "{16271EBC-993A-4070-A893-F91142165D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863D612B-C8D1-4469-9817-0BA1E064D01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863D612B-C8D1-4469-9817-0BA1E064D01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863D612B-C8D1-4469-9817-0BA1E064D01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863D612B-C8D1-4469-9817-0BA1E064D01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16271EBC-993A-4070-A893-F91142165D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16271EBC-993A-4070-A893-F91142165D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16271EBC-993A-4070-A893-F91142165D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16271EBC-993A-4070-A893-F91142165D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329FD1FE-5158-4331-992E-56A6180A403A}
+	EndGlobalSection
+EndGlobal
