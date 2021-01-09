@@ -7,4 +7,5 @@ Opgave 2: C#, C og assembler - En funktion som skrives i C# oversættes til C og
 
 Opgave 3 og 4 blev ikke tilstrækkeligt fuldført til at uploade.
 
-Opgave 5: JavaScript - Små opgaver med højere-ordens funktionerne map, filter og reduce. Delopgave a er et teoretisk spørgsmål, derfor er det ikke med i filen.
+Opgave 5: JavaScript - Små opgaver med højere-ordens funktionerne map, filter og reduce. 
+Delopgave a er et teoretisk spørgsmål, derfor er det ikke med i filen.
